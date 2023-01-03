@@ -6,6 +6,9 @@
 
 https://bit.ly/3GLmU7C
 
+#telegram: https://t.me/IonicSupport
+#whatsapp:+1 315 629 9582
+
 <h2><strong>Social Network Data Bulk Scrape & Extractor Pro 23.0.1</strong></h2>
 <p><strong>Social Network Data Bulk Scrape & Extractor Pro </strong> with Multi-Keywords is a powerful tools to extract emails & phones 
 from google search results based on your keywords</p>
@@ -193,85 +196,8 @@ or adding licensing system, or need to add custom features please contact us.</p
 We are looking forward to forming successful business relationships with new clients around the world in the nearfuture.</p>
 
 
-<table>
-<tr>
-   <td>
-      <a href="mailto:ionicstudio@hotmail.com">
-         <img src="https://i.ibb.co/D95ZGwY/email.png" alt="email" border="0">
-    </a>
-  </td>
-    <td>
-      <a href="https://t.me/captainC999" rel="nofollow">
-       <img src="https://i.ibb.co/F7m9KDN/tg.png" alt="tg" border="0">
-    </a>
-   </td>
-</tr>
-</table>
-
-
- <h3><strong>Update Logs</strong></h3>
-    - V23.0.1 ( 2022/09/03)
- <pre>
-  --Update:Support last chorme deriver
-  --Fixed:Bulk keyword issue
- </pre>
-   - V22.0.1 ( 2022/08/22)
- <pre>
-  --Update:Support last chorme deriver
-  --Add:Automatic chorme driver upgrade
- </pre>
-  - V21.0.1 ( 2022/07/09)
- <pre>
-  --Add:Support Business email
-  --Add:Support person email
- </pre>
- - V20.0.1 ( 2022/06/20)
- <pre>
-  --Add:Support all social network media
-  --Add:Delay setting
-  --Add:Social network choose
-  --Add:Support bulk keyword
-  --Fixed:delay problem
- </pre>
-  - V19.0.0 ( 2022/05/20)
- <pre>
-  --Add:support all countries
-  --Add:support all language
-  --Fixed:export 
- </pre>
-       - V12.0.1 ( 2022/05/6)
- <pre>
-    --Add:support scrape tiktok
- </pre>
-      - V7.0.1 ( 2022/05/3)
- <pre>
-    --Add:support scrape twitter
- </pre>
-     - V6.0.1 ( 2022/05/2)
- <pre>
-    --Add:support scrape pinterest
- </pre>
-     - V5.0.1 ( 2022/05/1)
- <pre>
-    --Add:support scrape instagram
- </pre>
-     - V4.0.0 ( 2022/04/1)
- <pre>
-    --Add:support scrape youtube
- </pre>
-    - V3.0.0 ( 2022/03/1)
- <pre>
-    --Add:support scrape facebook
- </pre>
-   - V2.0.0 ( 2022/02/1)
- <pre>
-    --Add:support scrape linkedin
- </pre>
-  - V1.0.0 ( 2022/01/1)
- <pre>
-  --Add:Initial version
- </pre>
  
+
  
  
  
